@@ -6,7 +6,7 @@ This Repository contains scripts to automate some repeated tasks in lords mobile
 
 ## Help Spammer Setup
 * Import script in macro recorder.
-* Adjust the time delay accorgding to you lag in game.(optional)
+* Adjust the time delay accorgding to your lag in game (optional).
 * Go inside castle and run this script
 
 #### Problems
