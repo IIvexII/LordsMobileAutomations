@@ -7,10 +7,12 @@ This Repository contains scripts to automate some repeated tasks in lords mobile
 * Nox Player 6.6.0.5 (In short; Latest version)
 
 ## Installation Guide
-* Download and install nox player from here
-* Import script in macro recorder.
+* Download and install nox player from [here](https://www.bignox.com/ "download nox player")
+* Install Lords mobile in it.
+* Login your account inside game that you wanna automate.
+* Open macro recorder from right manu bar and import these scripts.
 * Adjust the time delay according to your lag in game (optional).
-* Go inside castle and run this script
+* Go inside castle and run scripts and enjoy.
 
 # Help Spammer
 
