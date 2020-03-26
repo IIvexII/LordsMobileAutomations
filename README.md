@@ -15,7 +15,19 @@ This Repository contains scripts to automate some repeated tasks in lords mobile
 * Go inside castle and run scripts and enjoy.
 
 # Help Spammer
+* This script will spam help for your guild untill you stop it.
+
+# Gift Collector
+* This is for those who don't have autocollector because of low VIP rate.
+* Open the gift board so that it can collect gifts for you while you are chilling.
+
+# Shelter
+* This will shelter for 12 hours automatically and reshelter after 11 hours.
+* Once you started it it will never stop sheltering untill you stop or emulator shutdown.
+* This will only work if you are inside castle.
+
 
 #### Problems
-* Incorrect Click: Adjust the position of the building(mostly farm) to its first click.
-* Unwanted Behaviour: Increase the loop delay in setting of the script.
+* **Incorrect Click:** Adjust the position of the building(mostly farm) to its first click.
+* **Unwanted Behaviour:** Increase the loop delay in setting of the script.
+* **Rss:** fill this account with rss so it never fail to start construction.
