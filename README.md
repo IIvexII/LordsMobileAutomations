@@ -1,4 +1,4 @@
-![alt text](https://lh3.googleusercontent.com/proxy/AfIENof3SHU4G1B-Hhnk-Y6bWLtzNpmLinHpY38vel-Q4Ol3x8LFKr7d1VrPGc4WVbcbOiQ34nXX1aGh81JLVyOdrUxVYFlcMj8OyKFoFGQPFnFE_WtrcjQfw_JgmxkgNQGAk2DeAqM "Lords mobile logo")
+![alt text](https://upload.wikimedia.org/wikipedia/en/1/10/Lords_Mobile_logo.png "Lords mobile logo")
 
 # Lords Mobile Automations Scripts
 This Repository contains scripts to automate some repeated tasks in lords mobile using NOX-Macros.
